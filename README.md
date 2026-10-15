@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I'm Prithvi a first-year MS Data Science student at the University of Washington!
 
 <!--
 **PrithviHegde/PrithviHegde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
